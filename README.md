@@ -21,6 +21,6 @@ Haxhi Lajqi
 #### Pershkrimi:
 Ky projekt zhvillon gjithsej 4 programe 2 jane klient programe dhe 2 server programe. Njeri cift klient-server komunikojne konform protokollit UDP ndersa tjetri cift konform protokollit TCP. Nje spjegim i detajuar i ketij projekti mund te gjendet ne fajllin "Projekti.docx"
 #### Description:
-This project implemEnts totally 4 programs 2 of which are client programs and 2 others are server programs. One client-server pair communicate conform UDP protocol while the other pair communicate using TCP protocol. A detailed explanation of this project can be found in the "Projekti.docx" file.
+This project implements totally 4 programs 2 of which are client programs and 2 other are server programs. One client-server pair communicate conform to UDP protocol while the other pair communicate using TCP protocol. A detailed explanation of this project can be found in the "Projekti.docx" file.
 #### Implementimi:
 Programet jane implemtuar si CLI.
